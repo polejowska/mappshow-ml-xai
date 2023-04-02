@@ -21,4 +21,4 @@ The machine learning and XAI part of the project is implemented in `classifiers_
 Using conda environment:
 
     conda env create -f env.yml
-    conda activate mappshow
+    conda activate lmappshow
