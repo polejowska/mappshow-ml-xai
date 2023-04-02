@@ -1,4 +1,4 @@
-### mappshow - Medical APPointment SHOW up prediction
+### mappshow - medical appointment show up prediction
 
 
 #### Data
@@ -15,3 +15,10 @@ The aim of this project is to prepare a model that predicts whether or not a pat
 
 #### Machine Learning and Explainable AI
 The machine learning and XAI part of the project is implemented in `classifiers_xai.ipynb` notebook.
+
+### Environment Setup
+
+Using conda environment:
+
+    conda env create -f env.yml
+    conda activate mappshow
