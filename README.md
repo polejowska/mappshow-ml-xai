@@ -17,7 +17,9 @@ The aim of this project is to prepare a model that predicts whether or not a pat
 The machine learning and XAI part of the project is implemented in notebooks:
 - `ml_classifiers/classifiers_xai.ipynb`
 - `ml_classifiers/basic_classifiers.ipynb`
-- `dl_classifiers/dl_classifiers.ipynb`
+- `dl_classifiers/tabnet.ipynb`
+- `dl_classifiers/tabnetpfn.ipynb`
+
 
 ### Environment Setup
 
