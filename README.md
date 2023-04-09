@@ -19,6 +19,7 @@ The machine learning and XAI part of the project is implemented in notebooks:
 - `ml_classifiers/basic_classifiers.ipynb`
 - `dl_classifiers/tabnet.ipynb`
 - `dl_classifiers/tabnetpfn.ipynb`
+- `glass_box_classifiers/glass_box_classifiers.ipynb`
 
 
 ### Environment Setup
